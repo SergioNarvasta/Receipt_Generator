@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bg0PJSFSO+fi5xzIPd6iA7swbAVYZYW5VK20sx/+XlikJIrXe2Z/iAtw3Se9ZJCinWh0bggcVk0gElGGJyolbw==",
+  "dgSpecHash": "49pOzMm2yRmeqMp8+E0wvE11MAmebxpfUJqH90EYPYgzNQ9/0VsgHCyenekbvZyf7jCzTx2LIHs5Nyq7x4K0qw==",
   "success": true,
-  "projectFilePath": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj",
+  "projectFilePath": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MI PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MI PC\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

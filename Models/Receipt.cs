@@ -1,4 +1,6 @@
-﻿namespace Receipt_Generator.Models
+﻿using System.Drawing;
+
+namespace Receipt_Generator.Models
 {
     public class Receipt
     {
@@ -11,7 +13,7 @@
        public string TipoDoc { get; set; } //*
        public string Direccion { get; set; }
        public string Nombres { get; set; }
-       public string Logo { get; set; }
+       public Image Logo { get; set; }
 
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj": {}
+    "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj": {}
   },
   "projects": {
-    "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj": {
+    "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj",
+        "projectUniqueName": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj",
         "projectName": "Receipt_Generator",
-        "projectPath": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj",
+        "projectPath": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator.csproj",
         "packagesPath": "C:\\Users\\MI PC\\.nuget\\packages\\",
-        "outputPath": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\Receipt_Generator\\obj\\",
+        "outputPath": "F:\\3. PROYECTOS\\Receipt_Generator\\Receipt_Generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
