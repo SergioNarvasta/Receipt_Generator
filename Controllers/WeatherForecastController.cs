@@ -1,6 +1,6 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Receipt_Generator.Controllers
+namespace NETCore_React.Controllers
 {
     [ApiController]
     [Route("[controller]")]
@@ -18,7 +18,7 @@ namespace Receipt_Generator.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast

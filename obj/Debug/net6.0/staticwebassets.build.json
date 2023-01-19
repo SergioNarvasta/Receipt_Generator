@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "WfJ7keb1UX+Vvjrsr0hENOcZ+ktu0VAxX2p5vWhKbK8=",
-  "Source": "Receipt_Generator",
-  "BasePath": "_content/Receipt_Generator",
+  "Hash": "4TJRKmLCfy4Pg0JkNtlYRXXbrxPZ8B/AaYk+VQhY8Ck=",
+  "Source": "NETCore_React",
+  "BasePath": "_content/NETCore_React",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
